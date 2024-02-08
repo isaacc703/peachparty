@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>89DCE563-2ED2-45B2-89D8-ACD9EFB63EF1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>89DCE563-2ED2-45B2-89D8-ACD9EFB63EF1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>PeachParty-bhwvuoapfxurlrfcebknfkfhsact</string>
+			<key>timeStartedRecording</key>
+			<real>700263674.87379801</real>
+			<key>timeStoppedRecording</key>
+			<real>700263674.87991297</real>
+			<key>title</key>
+			<string>Build target PeachParty</string>
+			<key>uniqueIdentifier</key>
+			<string>89DCE563-2ED2-45B2-89D8-ACD9EFB63EF1</string>
+		</dict>
+		<key>DE9C6C02-A247-496E-94E7-FDE4082EF55E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>DE9C6C02-A247-496E-94E7-FDE4082EF55E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>PeachParty-fofovuoahizyshanocmcqwijpchb</string>
+			<key>timeStartedRecording</key>
+			<real>699689696.68806899</real>
+			<key>timeStoppedRecording</key>
+			<real>699689697.25603902</real>
+			<key>title</key>
+			<string>Build target PeachParty</string>
+			<key>uniqueIdentifier</key>
+			<string>DE9C6C02-A247-496E-94E7-FDE4082EF55E</string>
+		</dict>
+		<key>F8C1A784-DD68-4489-B6DC-C5F6B85317DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>F8C1A784-DD68-4489-B6DC-C5F6B85317DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>PeachParty-fzqzjwmukiodvkcscqaqokeigbsh</string>
+			<key>timeStartedRecording</key>
+			<real>701136359.27479994</real>
+			<key>timeStoppedRecording</key>
+			<real>701136359.280303</real>
+			<key>title</key>
+			<string>Build target PeachParty</string>
+			<key>uniqueIdentifier</key>
+			<string>F8C1A784-DD68-4489-B6DC-C5F6B85317DE</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
